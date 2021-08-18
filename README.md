@@ -1,5 +1,5 @@
 # 
-<h1 align ="center"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> Basic Banking System. <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></h1>
+<h1 align ="center"> <img src="https://img.icons8.com/nolan/64/bank-building.png"/> Basic Banking System. <img src="https://img.icons8.com/nolan/64/bank-building.png"/></h1>
 Sparks Foundation Web Development Internship Project : Basic Banking System website. 
 A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
