@@ -22,3 +22,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 > ![MMB745LMX2 - Copy (Small) (Phone)](https://user-images.githubusercontent.com/59960810/133117726-e8f11099-2d9f-41b3-b61c-41bb0d44e6ff.png)
 #### Certificate Verification link.
 > link :- https://truecertificates.com/verified/MMB745LMX2
+###  Letter of Recommendation.
+>![MJJ4NAF98T (Phone)](https://user-images.githubusercontent.com/59960810/133558554-ba079428-4498-4ad6-a9d7-feea41d7918b.png)
+####  Letter of Recommendation (LOR) Verification link.
+> link :- https://truecertificates.com/verified/MJJ4NAF98T
